@@ -1,2 +1,24 @@
-# Sales-Overview-Analysis
-A dynamic Sales Overview Dashboard designed to track key metrics such as revenue, sales trends, and customer behavior. Built with Power BI and SQL, it enables real-time analysis, interactive filtering, and data-driven decision-making to improve business performance.
+# Sales Performance Dashboard
+
+## Project Overview
+
+An interactive dashboard designed to explore sales performance and help users understand key business metrics.
+
+## Business Question nos
+
+- How are revenue, cost of goods sold, and profit performing?
+- Which products and sales representatives contribute most to performance?
+- How does performance vary across locations and months?
+- What should be investigated when an unexpected change appears in the data?
+
+## Tools
+
+Power BI for visualization and reporting. Add SQL, Python, Power Query, or DAX only if they were actually used in this project.
+
+## Key Metrics
+
+The dashboard presents revenue, cost of goods sold, profit, and customer counts, alongside product, sales representative, location, and monthly analysis.
+
+## Important Note
+
+Unexpected changes in performance should be validated against the underlying data before conclusions are drawn.
